@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/brianvi-98/artifact-directory-template",
+    "project-repository": "https://github.com/18anguyen9/Single_Cell_Coupled_Autoencoders",
+    "dockerhub-repository": "https://hub.docker.com/repository/docker/alandnin/method3",
+    "project-website-url": "https://18anguyen9.github.io/DSC_180_website/",
+    "project-website-code": "https://github.com/18anguyen9/DSC_180_website"
 }
